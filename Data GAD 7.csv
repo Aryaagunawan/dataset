@@ -1,0 +1,671 @@
+Timestamp,Nama,Umur,Jenis Kelamin,"Merasa gugup, cemas, atau gelisah",Tidak dapat menghentikan kekhawatiran,Banyak mengkhawatirkan berbagai hal,Sulit merasa santai,Sangat gelisah sehingga sulit untuk diam,Mudah tersinggung dan mudah marah,Merasa takut seolah-olah sesuatu buruk akan terjadi
+07/12/2023 18:46:01,Fathia Zata Nurul Amani ,19,Perempuan,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari
+07/12/2023 18:57:29,Wa Ode Fera Verdina Putri Subarjo ,19,Perempuan,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah
+07/12/2023 19:00:59,Muhammad Faqhih Hafid Nur,18,Laki-Laki,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan
+07/12/2023 19:04:15,Adeliya zharah,18,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan
+07/12/2023 19:05:18,Ahmad yasin,19,Laki-Laki,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah,Beberapa Hari,Beberapa Hari,Beberapa Hari
+07/12/2023 19:20:05,Hartati,20,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari
+07/12/2023 19:29:36,acha,23,Perempuan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Tidak Pernah,Hampir Setiap Hari,Beberapa Hari
+07/12/2023 19:31:09,zilan,20,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari
+07/12/2023 19:36:50,Hasmarani ,19,Perempuan,Tidak Pernah,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah
+07/12/2023 19:38:16,Yulidyah syaffanie Lilikay ,19,Perempuan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah
+07/12/2023 19:39:47,Nur Alfiyah ,19,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari
+07/12/2023 19:42:36,Nurul Fitria Aziza ,19,Perempuan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari
+07/12/2023 19:42:41,Firta Ariani ,19,Perempuan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah,Beberapa Hari
+07/12/2023 19:43:58,Nilam Alyuba K.D,18,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari
+07/12/2023 19:46:08,Juniar Pratiwi ,20,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari
+07/12/2023 19:47:15,Miftahul Jannah ,19,Perempuan,Beberapa Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Tidak Pernah,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan
+07/12/2023 19:49:55,Astrid,21,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+07/12/2023 19:51:06,Sindy Cloudia ,19,Perempuan,Beberapa Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Tidak Pernah,Beberapa Hari
+07/12/2023 19:51:59,Paradila,19,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+07/12/2023 19:52:02,Zahra,21,Perempuan,Tidak Pernah,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah
+07/12/2023 19:57:20,Andi Ratnasari ,19,Perempuan,Tidak Pernah,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari,Beberapa Hari
+07/12/2023 20:02:19,WA ODE NELA MAWARNI,19,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah,Beberapa Hari
+07/12/2023 20:03:31,WILLYAM ALFARY PASONGLI',21,Laki-Laki,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari
+07/12/2023 20:10:28,Rista utami,18,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Tidak Pernah,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan
+07/12/2023 20:23:34,Nur Iswatun ,19,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari
+07/12/2023 20:25:59,Syarifa,19,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari
+07/12/2023 20:34:01,Yun Muntarti,19,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+07/12/2023 20:41:57,Alvionita,20,Perempuan,Beberapa Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Tidak Pernah,Beberapa Hari,Beberapa Hari
+07/12/2023 20:52:26,Aas,20,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari
+07/12/2023 21:09:16,Elfiani,18,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari
+07/12/2023 22:25:04,Alfitrah Ramadhan,19,Laki-Laki,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah
+07/12/2023 22:45:15,Putri Yuliyanti ,19,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari
+07/12/2023 23:07:04,RAHMA,19,Perempuan,Hampir Setiap Hari,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+07/12/2023 23:07:59,La Ode Aidil Syawal,19,Laki-Laki,Beberapa Hari,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah
+07/12/2023 23:09:01,Tatarudin ,21,Laki-Laki,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah
+07/12/2023 23:10:18,Aditya Kusuma ,19,Laki-Laki,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+07/12/2023 23:18:57,Alif Rahman,18,Laki-Laki,Tidak Pernah,Tidak Pernah,Hampir Setiap Hari,Hampir Setiap Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah
+07/12/2023 23:33:25,Abhil Aprianto Nastian ,18,Laki-Laki,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah
+07/12/2023 23:42:05,Yusuf alzani,21,Laki-Laki,Tidak Pernah,Beberapa Hari,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah
+07/12/2023 23:47:02,Jelti Todingan,19,Perempuan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari
+08/12/2023 0:54:32,desil,18,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari
+08/12/2023 1:14:36,Abdul Haris Rahanyamtel ,20,Laki-Laki,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari,Hampir Setiap Hari
+08/12/2023 1:46:44,Nabilah Nur Azizah,21,Perempuan,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Beberapa Hari,Tidak Pernah,Beberapa Hari
+08/12/2023 1:49:14,Muhammad Arifin,20,Laki-Laki,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari
+08/12/2023 1:51:28,kanaya auliya,18,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Hampir Setiap Hari
+08/12/2023 2:01:04,Mutmainah,19,Perempuan,Tidak Pernah,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah
+08/12/2023 2:01:07,Nurfadilla,18,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari,Beberapa Hari
+08/12/2023 2:10:00,Ratna,19,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+08/12/2023 2:13:53,Lista,19,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah,Beberapa Hari
+08/12/2023 2:45:07,Fatimah Adzahra ,19,Perempuan,Tidak Pernah,Hampir Setiap Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah,Hampir Setiap Hari,Beberapa Hari
+08/12/2023 2:45:07,Aul,22,Laki-Laki,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+08/12/2023 2:46:18,KIYA WUNI SUNDARI,18,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+08/12/2023 2:49:02,Angghy puspita,23,Perempuan,Tidak Pernah,Beberapa Hari,Tidak Pernah,Hampir Setiap Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari
+08/12/2023 2:52:33,SATRIANI,19,Perempuan,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari
+08/12/2023 3:15:33,Laura Larasati,18,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Tidak Pernah,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+08/12/2023 3:17:30,yesi,20,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari,Tidak Pernah
+08/12/2023 3:18:25,Alex,21,Laki-Laki,Tidak Pernah,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari
+08/12/2023 3:19:01,Ela Sari Doloma ,20,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari
+08/12/2023 3:21:28,Nagita Vira Rahayu ,19,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Beberapa Hari
+08/12/2023 3:22:46,seftia,19,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+08/12/2023 3:32:17,Ibnu Adittya Saputra ,19,Laki-Laki,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari
+08/12/2023 3:35:26,Juan Electra S,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Tidak Pernah,Beberapa Hari,Hampir Setiap Hari
+08/12/2023 3:42:55,AFRILLA DAYUSTIAR ,19,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Tidak Pernah,Beberapa Hari,Beberapa Hari
+08/12/2023 3:45:13,DJUMADI.M,19,Laki-Laki,Beberapa Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Tidak Pernah,Tidak Pernah,Beberapa Hari
+08/12/2023 3:58:15,Sinta putri suhanti,19,Perempuan,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari
+08/12/2023 4:04:41,Mazhelinda lasinuru ,25,Perempuan,Tidak Pernah,Beberapa Hari,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah
+08/12/2023 4:11:07,Unhy,24,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+08/12/2023 4:15:15,Muh. Rasit,19,Laki-Laki,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari
+08/12/2023 4:15:52,Muh Syaiful ikhsan ,19,Laki-Laki,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari
+08/12/2023 4:40:20,Putri Rahayu ,20,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Hampir Setiap Hari,Tidak Pernah
+08/12/2023 4:55:34,Bela,18,Perempuan,Tidak Pernah,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari,Beberapa Hari
+08/12/2023 4:58:27,Hidayatullah ,19,Laki-Laki,Tidak Pernah,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+08/12/2023 4:58:59,Hasriani Mansur,19,Perempuan,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari
+08/12/2023 5:05:56,Bunga Putri Yusa ,18,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Hampir Setiap Hari
+08/12/2023 5:08:52,Boni,21,Laki-Laki,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+08/12/2023 5:09:05, Nisa ,19,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari
+08/12/2023 5:15:47,ayu dwi ananda ,19,Perempuan,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Beberapa Hari,Beberapa Hari
+08/12/2023 5:17:14,Nazirah sarmin,19,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari
+08/12/2023 5:32:04,yolanda,19,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari,Beberapa Hari
+08/12/2023 5:41:00,Dita Lestari ,19,Perempuan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+08/12/2023 5:45:39,Putri Nilam Sari ,23,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+08/12/2023 5:49:51, Alyananta firdausiana,18,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Tidak Pernah,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan
+08/12/2023 5:53:51,Wa Ode Ruhana Rohim,21,Perempuan,Tidak Pernah,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah,Beberapa Hari
+08/12/2023 6:45:38,Wa Ode Febriani ,25,Perempuan,Hampir Setiap Hari,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari
+08/12/2023 6:54:00,Nurafni ,23,Perempuan,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari
+08/12/2023 7:10:14,Andi Akbar,24,Laki-Laki,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah,Tidak Pernah
+08/12/2023 7:10:46,zhabita,22,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+08/12/2023 7:13:42,SUCY LESTARI,25,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+08/12/2023 7:20:06,Alinda,24,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+08/12/2023 7:30:09,Mira,19,Perempuan,Beberapa Hari,Tidak Pernah,Hampir Setiap Hari,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Tidak Pernah
+08/12/2023 7:39:51,Yahya,20,Laki-Laki,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari,Tidak Pernah,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+08/12/2023 8:35:32,widya,18,Perempuan,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Tidak Pernah,Beberapa Hari
+08/12/2023 10:22:13,Musdalifah,23,Perempuan,Tidak Pernah,Tidak Pernah,Beberapa Hari,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari
+08/12/2023 10:38:33,Lisna,21,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari
+08/12/2023 13:17:04,Juliyanti ,25,Perempuan,Beberapa Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+08/12/2023 13:46:29,Erza ,18,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah
+08/12/2023 16:45:45,Mutia,21,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari
+08/12/2023 18:16:38,Anjas Rivaldi,21,Laki-Laki,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari
+08/12/2023 18:55:50,Amaranty Putri ,21,Perempuan,Beberapa Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Beberapa Hari,Beberapa Hari,Beberapa Hari
+08/12/2023 21:12:42,Ila,20,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+08/12/2023 22:12:42,Eno,21,Perempuan,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan
+08/12/2023 22:46:30,Septiani Oktora ,21,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari
+08/12/2023 22:49:08,Risa,21,Perempuan,Hampir Setiap Hari,Beberapa Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+08/12/2023 22:50:28,Azrul,19,Laki-Laki,Beberapa Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari,Beberapa Hari
+08/12/2023 22:51:51,Nurul,23,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan
+08/12/2023 22:51:54,Precilia ,20,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+08/12/2023 23:12:26,Putri Priscilia,19,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+08/12/2023 23:43:27,mia,22,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari,Tidak Pernah
+08/12/2023 23:45:44,IM,22,Perempuan,Beberapa Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+09/12/2023 0:00:24,Efa F,19,Perempuan,Tidak Pernah,Beberapa Hari,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah
+09/12/2023 0:23:29,tya,21,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari
+09/12/2023 0:31:03,Widya,20,Perempuan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+09/12/2023 0:33:13,Dhila,21,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari
+09/12/2023 0:42:53,Afie,24,Perempuan,Hampir Setiap Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari
+09/12/2023 0:54:01,Subhiya Dwi Astuti,23,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+09/12/2023 0:54:56,sipa,22,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+09/12/2023 0:54:56,Dean,18,Perempuan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Beberapa Hari
+09/12/2023 1:01:36,Selat,19,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari
+09/12/2023 1:04:48,Rs,21,Perempuan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+09/12/2023 1:23:07,Mulyadi,21,Laki-Laki,Beberapa Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari,Beberapa Hari
+09/12/2023 1:26:10,Maria ,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan
+09/12/2023 1:36:26,Puput,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari
+09/12/2023 1:46:07,Reliana,18,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+09/12/2023 1:46:13,Evina,22,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari
+09/12/2023 1:51:47,Adel,19,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari
+09/12/2023 1:57:46,Fia,18,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari,Beberapa Hari
+09/12/2023 2:09:49,Delona,20,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Tidak Pernah,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan
+09/12/2023 2:11:54,Dwi M.,22,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+09/12/2023 2:40:26,Fira,19,Perempuan,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Tidak Pernah,Hampir Setiap Hari,Hampir Setiap Hari
+09/12/2023 2:49:00,Maulin,20,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Beberapa Hari,Tidak Pernah,Hampir Setiap Hari
+09/12/2023 3:32:27,Chi,23,Laki-Laki,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan
+09/12/2023 3:33:15,Arin,22,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+09/12/2023 3:38:56,rere,21,Perempuan,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+09/12/2023 3:42:11,Nurhalifa hardin,20,Perempuan,Tidak Pernah,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Tidak Pernah,Beberapa Hari,Beberapa Hari
+09/12/2023 3:45:47,Lia,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+09/12/2023 3:47:23,Asya,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan
+09/12/2023 3:54:47,Ji,19,Perempuan,Hampir Setiap Hari,Beberapa Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari
+09/12/2023 3:57:34,Aca,21,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari,Beberapa Hari
+09/12/2023 3:57:37,Kayla,18,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+09/12/2023 4:06:09,Ney,22,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari
+09/12/2023 4:15:35,Anisa,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+09/12/2023 4:16:54,Gecko,22,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+09/12/2023 4:25:10,putri elizabeth ,24,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari
+09/12/2023 4:32:36,Halimah,19,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah
+09/12/2023 4:49:00,Ummul khair,20,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Hampir Setiap Hari
+09/12/2023 4:50:20,WULAN SAGITA,20,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Beberapa Hari
+09/12/2023 4:50:41,Enik Ismi Mahmudah,24,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Hampir Setiap Hari
+09/12/2023 5:00:52,NURMA DWI LARASATI,20,Perempuan,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari
+09/12/2023 5:01:50,Fatimah ,20,Perempuan,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah
+09/12/2023 5:02:27,Indry,19,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan
+09/12/2023 5:03:46,Anggita Aulia Al Rasyid ,18,Perempuan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+09/12/2023 5:04:30,Hasanah,18,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari
+09/12/2023 5:08:09,Zuhria ,19,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari
+09/12/2023 5:08:32,Jerry,19,Laki-Laki,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah,Beberapa Hari,Tidak Pernah,Beberapa Hari
+09/12/2023 5:14:44,Nadiva Maharani ,19,Perempuan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari
+09/12/2023 5:14:59,Amelia Puspita ,20,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah,Tidak Pernah
+09/12/2023 5:15:13,Aisyah Megananda Assa Sajitin,18,Perempuan,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari
+09/12/2023 5:17:23,Adee,18,Laki-Laki,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah
+09/12/2023 5:17:55,Lyan Hanan ,20,Perempuan,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+09/12/2023 5:18:11,St. Gina amaliya,19,Perempuan,Tidak Pernah,Beberapa Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah,Hampir Setiap Hari,Beberapa Hari
+09/12/2023 5:18:37,Nurisma ,19,Perempuan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+09/12/2023 5:18:51,KEZYA DESWITYA RJ,18,Perempuan,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+09/12/2023 5:18:57,La Diro ,18,Laki-Laki,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah
+09/12/2023 5:20:17,Nur fitra asisyah ,18,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+09/12/2023 5:21:12,Rahmania ,18,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari
+09/12/2023 5:21:31,Nayla sari,18,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari
+09/12/2023 5:24:31,Windi Amiati Nahdiyah,21,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari,Tidak Pernah
+09/12/2023 5:25:03,HARSITA,19,Perempuan,Tidak Pernah,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari,Tidak Pernah,Hampir Setiap Hari,Hampir Setiap Hari
+09/12/2023 5:26:03,Dwi putri,19,Perempuan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+09/12/2023 5:29:06,PEBRIANTI,19,Perempuan,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Beberapa Hari,Beberapa Hari
+09/12/2023 5:37:04,Annisa Humairah ,19,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Tidak Pernah,Beberapa Hari
+09/12/2023 5:37:18,Andhini Rhizky Ananda. K,20,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari
+09/12/2023 5:46:02,Nabila adha putri permata sari,19,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari,Beberapa Hari
+09/12/2023 5:50:34,Imey Trianu Wasono Putri,18,Perempuan,Tidak Pernah,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah,Beberapa Hari
+09/12/2023 5:52:26,Mega handreni,19,Perempuan,Beberapa Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+09/12/2023 5:52:29,WULAN ANATSYA ,19,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari
+09/12/2023 6:04:00,Meriyani ,22,Perempuan,Hampir Setiap Hari,Tidak Pernah,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Beberapa Hari
+09/12/2023 6:21:27,Jelita Oktavia Ramadani,19,Perempuan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari
+09/12/2023 6:22:25,Syaif,19,Laki-Laki,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Tidak Pernah,Beberapa Hari
+09/12/2023 6:26:47,Muhammad Taufik Hidayat ,18,Laki-Laki,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+09/12/2023 6:34:44,Ha,23,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+09/12/2023 6:38:30,Indry,18,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+09/12/2023 6:42:27,Adisti,21,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+09/12/2023 6:43:32,Riski Amelia,18,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari
+09/12/2023 6:47:32,Tafida Kayla rahmani,20,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari
+09/12/2023 6:52:00,Maikel Jeksen ,18,Laki-Laki,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Beberapa Hari
+09/12/2023 6:52:53,Nur annisa,18,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah
+09/12/2023 6:58:12,Islami N,23,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+09/12/2023 7:39:36,Fara,18,Perempuan,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari
+09/12/2023 8:10:47,Titia,21,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+09/12/2023 8:43:17,Killaa,19,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari
+09/12/2023 9:26:24,ratimayaa,21,Perempuan,Beberapa Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Tidak Pernah,Tidak Pernah,Beberapa Hari
+09/12/2023 9:35:17,Shannon,23,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari,Tidak Pernah
+09/12/2023 9:40:13,Kirina,19,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+09/12/2023 14:06:27,Irene,24,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+09/12/2023 15:20:31,Komang eli,19,Perempuan,Tidak Pernah,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Tidak Pernah,Beberapa Hari
+09/12/2023 16:57:25,Danis Syalwa Octavianj,22,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Tidak Pernah,Hampir Setiap Hari,Hampir Setiap Hari
+09/12/2023 17:22:47,Moyin,20,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+09/12/2023 17:42:59,Yuna,23,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan
+09/12/2023 18:25:10,Raee,19,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari
+09/12/2023 18:31:51,Nurlaela ,19,Perempuan,Hampir Setiap Hari,Tidak Pernah,Hampir Setiap Hari,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari
+09/12/2023 18:58:24,Nina,23,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+09/12/2023 19:49:43,Miftahudin Al Ayubi,20,Laki-Laki,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Tidak Pernah,Beberapa Hari
+09/12/2023 20:32:53,Sirhan,22,Laki-Laki,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah,Tidak Pernah,Hampir Setiap Hari
+09/12/2023 21:01:59,Cinta ,21,Perempuan,Hampir Setiap Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+09/12/2023 21:02:05,Calista,21,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan
+09/12/2023 21:04:27,caca,19,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan
+09/12/2023 21:15:15,Anin,22,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+09/12/2023 21:23:32,VIDYA,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah,Beberapa Hari
+09/12/2023 21:25:58,Nisa,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+09/12/2023 21:30:25,Kira,20,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+09/12/2023 21:38:23,Fadhila Ramadhani,22,Perempuan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+09/12/2023 21:48:00,hani,24,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari
+09/12/2023 21:49:02,Ikhlasul Faiq,21,Laki-Laki,Beberapa Hari,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah
+09/12/2023 22:04:00,Nanda,21,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah,Beberapa Hari
+09/12/2023 22:22:58,Khairunnisa,21,Perempuan,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+09/12/2023 22:39:13,Rayesha,19,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari
+09/12/2023 22:43:34,widaska,22,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+09/12/2023 22:59:23,Alana,23,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari
+09/12/2023 23:34:24,Hilwa Salsabila ,20,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari
+09/12/2023 23:40:14,Ifa,20,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari
+10/12/2023 0:13:59,nisa,19,Perempuan,Hampir Setiap Hari,Beberapa Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari
+10/12/2023 0:26:13,Zii,20,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan
+10/12/2023 0:28:35,Aura,19,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Tidak Pernah,Tidak Pernah,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+10/12/2023 1:12:20,farah,20,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+10/12/2023 1:16:48,SNA,19,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+10/12/2023 1:18:46,Lina,21,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+10/12/2023 2:03:54,al,20,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari
+10/12/2023 2:57:07,Yasha aniisatun n,18,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari
+10/12/2023 3:43:23,Bryan,19,Laki-Laki,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+10/12/2023 3:59:29,Nabila,19,Perempuan,Tidak Pernah,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah,Beberapa Hari
+10/12/2023 4:30:20,Nisrina ,19,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+10/12/2023 4:33:33,Muhammad Fath Thoriq,22,Laki-Laki,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+10/12/2023 7:35:35,Arsyla Syahidah Khoerunnisa,20,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+10/12/2023 8:00:38,Bella,22,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Beberapa Hari
+10/12/2023 8:55:58,Alin skye,20,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+10/12/2023 9:06:15,Rz,23,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari
+10/12/2023 9:08:37,Fay,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+10/12/2023 9:23:03,Aufa Dreihazi,21,Laki-Laki,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari
+10/12/2023 14:29:34,Adin,24,Perempuan,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari
+10/12/2023 16:47:59,Ara,23,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan
+10/12/2023 16:54:43,berlian,20,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari
+10/12/2023 17:32:07,ben,21,Laki-Laki,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Tidak Pernah,Tidak Pernah,Hampir Setiap Hari
+10/12/2023 18:35:06,Nanda,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari
+10/12/2023 18:38:11,Sab,22,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari
+10/12/2023 19:22:48,Putri,22,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah,Hampir Setiap Hari
+10/12/2023 19:36:54,Mila Ardiani,25,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari,Beberapa Hari
+10/12/2023 20:06:22,Aya,22,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah,Beberapa Hari
+10/12/2023 20:31:46,hana,23,Perempuan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari
+10/12/2023 20:51:01,Sasya,21,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+10/12/2023 20:55:00,Yuna,21,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari
+10/12/2023 21:53:37,Annisa,21,Perempuan,Hampir Setiap Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+10/12/2023 22:12:29,Aulia Putri Tiary,23,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+10/12/2023 22:23:19,Jasmine,20,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+10/12/2023 22:30:08,Fau,20,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan
+10/12/2023 23:12:21,Atikah,19,Perempuan,Beberapa Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+10/12/2023 23:32:00,azzalia,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari
+10/12/2023 23:43:25,Thalia ,19,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan
+10/12/2023 23:51:17,Nur Fadillah ,18,Perempuan,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari
+11/12/2023 0:09:11,Amalia,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+11/12/2023 0:36:09,Amanda,21,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+11/12/2023 0:42:42,Icha anawai,18,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+11/12/2023 0:50:38,Yabrina ,18,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan
+11/12/2023 0:52:56,Ermila ,19,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Tidak Pernah,Hampir Setiap Hari
+11/12/2023 0:55:12,Ratna Sari ,19,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari
+11/12/2023 0:56:05,Nuzul,19,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari
+11/12/2023 1:07:33,Annisa Ramadhani,19,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+11/12/2023 1:08:29,Astin,20,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Hampir Setiap Hari
+11/12/2023 1:09:19,Ni Luh Ica Ardini,20,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah
+11/12/2023 1:21:37,Sakti,19,Perempuan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Tidak Pernah,Beberapa Hari,Hampir Setiap Hari
+11/12/2023 1:30:19,Hikma,18,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+11/12/2023 1:30:56,Falahyeon,19,Laki-Laki,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+11/12/2023 1:32:22,Ni Wayan Ediani,19,Perempuan,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari,Tidak Pernah,Hampir Setiap Hari,Hampir Setiap Hari
+11/12/2023 1:36:10,Nelti Juliana Sahera,19,Perempuan,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari
+11/12/2023 1:36:24,ANNISA RAHMA DANI,19,Perempuan,Tidak Pernah,Tidak Pernah,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari
+11/12/2023 1:36:43,Winda,19,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari
+11/12/2023 1:38:05,Rafly Ahmad Zainur,18,Laki-Laki,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari
+11/12/2023 1:42:21,secret,19,Perempuan,Tidak Pernah,Tidak Pernah,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari
+11/12/2023 1:48:47,Nelli agustiani,20,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+11/12/2023 1:53:14,Ir. Jokowidodo ,25,Laki-Laki,Tidak Pernah,Tidak Pernah,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Tidak Pernah,Hampir Setiap Hari
+11/12/2023 2:02:48,Dwi pratiwi aprilya,18,Perempuan,Tidak Pernah,Tidak Pernah,Beberapa Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari
+11/12/2023 2:12:04,Yuni Adelia,20,Perempuan,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah
+11/12/2023 2:16:36,Arlan,20,Laki-Laki,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Hampir Setiap Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan
+11/12/2023 2:23:35,Mahdi Markun,19,Laki-Laki,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Tidak Pernah,Beberapa Hari
+11/12/2023 2:37:47,Mia,20,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari,Tidak Pernah
+11/12/2023 2:40:10,Nalya Agustin,19,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Hampir Setiap Hari
+11/12/2023 2:41:11,MOH RIFKI KARIM,19,Laki-Laki,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah
+11/12/2023 2:46:47,AKMAL IHSAN ARIESKA ,19,Laki-Laki,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan
+11/12/2023 2:51:06,St nurhalisa,19,Perempuan,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+11/12/2023 2:55:03,Arza Kirana Viva ,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Tidak Pernah,Hampir Setiap Hari,Hampir Setiap Hari
+11/12/2023 2:55:40,Wa Ceria Juliana ,18,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+11/12/2023 3:13:19,Saharani,19,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+11/12/2023 3:14:28,Cecil,22,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari
+11/12/2023 3:17:47,Fidya Nur Syuhra,19,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari
+11/12/2023 3:26:45,Asmin,19,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+11/12/2023 3:27:56,Tian,23,Laki-Laki,Tidak Pernah,Tidak Pernah,Tidak Pernah,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari
+11/12/2023 3:31:07,Syafrina ,19,Perempuan,Tidak Pernah,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari
+11/12/2023 3:49:22,N,23,Laki-Laki,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan
+11/12/2023 4:06:51,Rama,21,Laki-Laki,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+11/12/2023 4:26:15,Agusriyati,19,Perempuan,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah,Beberapa Hari
+11/12/2023 4:31:39,Wilda Rahma Riskika ,19,Perempuan,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari
+11/12/2023 4:38:46,Insan Fikma Sari,19,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah
+11/12/2023 4:40:16,Dilla,24,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari
+11/12/2023 5:49:23,Bayyinahtun Dwi Sumatri,18,Perempuan,Hampir Setiap Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+11/12/2023 5:57:53,ASMIN ,25,Laki-Laki,Tidak Pernah,Hampir Setiap Hari,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah
+11/12/2023 6:04:51,Serluyp,22,Perempuan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+11/12/2023 14:39:21,Nur ,18,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari
+11/12/2023 15:47:26,Tien,18,Perempuan,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Beberapa Hari,Tidak Pernah
+11/12/2023 17:52:29,Andi Meliana Azzahra ,19,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari
+11/12/2023 18:09:14,Suci,21,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+11/12/2023 18:51:39,Salma ,19,Perempuan,Hampir Setiap Hari,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari
+11/12/2023 19:30:27,Kadek riskayani,18,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+11/12/2023 19:33:00,Yusriani,19,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Beberapa Hari
+11/12/2023 19:34:09,Muntianah,18,Perempuan,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah
+11/12/2023 19:34:21,Edi maryono,21,Laki-Laki,Beberapa Hari,Tidak Pernah,Tidak Pernah,Hampir Setiap Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari
+11/12/2023 19:38:53,Alamsyah,19,Laki-Laki,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari
+11/12/2023 19:42:25,MUKLIS NURHADI,21,Laki-Laki,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan
+11/12/2023 19:43:55,Delvita Ekasari ,19,Perempuan,Beberapa Hari,Tidak Pernah,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+11/12/2023 19:46:07,Regina,19,Perempuan,Beberapa Hari,Tidak Pernah,Hampir Setiap Hari,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Hampir Setiap Hari
+11/12/2023 19:46:34,Khoirul Nisa,18,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari
+11/12/2023 19:58:31,Egy,18,Perempuan,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan
+11/12/2023 20:01:43,ROUA HAFAZENI WA ODE,19,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari
+11/12/2023 20:07:26,Titin,20,Perempuan,Tidak Pernah,Tidak Pernah,Beberapa Hari,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari
+11/12/2023 20:34:16,Rasni,19,Perempuan,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari,Beberapa Hari
+11/12/2023 21:47:14,Fina,22,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 3:20:43,Dini,20,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 3:55:51,Artya Putri Azzahra,20,Perempuan,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari
+12/12/2023 4:14:47,Regita Ambar Pramesti,23,Perempuan,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+12/12/2023 4:19:50,Kajrianja,20,Perempuan,Hampir Setiap Hari,Tidak Pernah,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 5:41:56,Mashaf,19,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 5:47:26,Lisa,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 5:52:29,aulia,19,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari,Beberapa Hari
+12/12/2023 6:02:55,Afdhalul,21,Laki-Laki,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Tidak Pernah,Tidak Pernah
+12/12/2023 6:03:06,Nurul,20,Perempuan,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari
+12/12/2023 6:06:31,Dewi,23,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Beberapa Hari,Beberapa Hari,Beberapa Hari
+12/12/2023 6:17:48,DANIL,19,Laki-Laki,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah
+12/12/2023 6:20:41,Fitrah Yani Afiah Jevanka,19,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 6:29:58,Bella Vista,19,Perempuan,Tidak Pernah,Beberapa Hari,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari,Tidak Pernah
+12/12/2023 6:45:41,WAHYUDI ,21,Laki-Laki,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 7:02:12,Medina Diah safitra ,20,Perempuan,Hampir Setiap Hari,Tidak Pernah,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Hampir Setiap Hari
+12/12/2023 7:23:02,Alisha,21,Perempuan,Tidak Pernah,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari
+12/12/2023 10:07:11,Bagas,21,Laki-Laki,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari
+12/12/2023 14:42:41,Fani,22,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah
+12/12/2023 16:45:19,suci wulandari,19,Perempuan,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah
+12/12/2023 16:48:49,Wulan,22,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 16:49:41,Ishaa,21,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari
+12/12/2023 16:50:00,Gege,19,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 16:51:21,Ril,19,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Tidak Pernah,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 16:51:57,Hasna,20,Perempuan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 16:52:44,Cindy,24,Perempuan,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 16:57:29,Dani,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 16:59:39,Ra,20,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari
+12/12/2023 17:07:20,Hilda khalisa,21,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 17:07:25,Dev,19,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari
+12/12/2023 17:10:18,sntdnprmt ,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari
+12/12/2023 17:12:08,Novi,20,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari
+12/12/2023 17:12:17,Cin,22,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+12/12/2023 17:15:41,Nina,20,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+12/12/2023 17:25:36,beta,21,Perempuan,Hampir Setiap Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari
+12/12/2023 17:26:17,Rahmatiana ,21,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari
+12/12/2023 17:26:58,Kanesya Azzura,21,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari
+12/12/2023 17:28:57,Mala,19,Perempuan,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 17:30:12,Fadia,21,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari,Beberapa Hari
+12/12/2023 17:30:35,Kia,22,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari
+12/12/2023 17:31:22,Fin,20,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 17:31:51,Zahratunnisa,20,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari
+12/12/2023 17:33:37,Nurin,18,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari
+12/12/2023 17:34:48,Jessica,22,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari
+12/12/2023 17:45:18,R,22,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah
+12/12/2023 18:02:25,natasha willia hadipraja,24,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+12/12/2023 18:03:10,Shakira Annisa Luthfia ,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Beberapa Hari,Hampir Setiap Hari
+12/12/2023 18:05:26,rin,20,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari
+12/12/2023 18:06:43,Najwa Nabilla Zain,19,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 18:08:19,Nida Nur Khofiyyan,21,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 18:10:37,Mutia ,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+12/12/2023 18:11:19,rara,20,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+12/12/2023 18:13:27,Fauzia,21,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari
+12/12/2023 18:13:31,Mufti,23,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah,Hampir Setiap Hari
+12/12/2023 18:15:21,Aaron,20,Laki-Laki,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 18:18:33,RISA WULANSARI,19,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+12/12/2023 18:20:59,Hilma,20,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+12/12/2023 18:23:53,Fara,20,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 18:26:32,feny,21,Perempuan,Tidak Pernah,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah,Beberapa Hari
+12/12/2023 18:26:35,Ami Humairah,23,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari
+12/12/2023 18:28:48,Arman ,21,Laki-Laki,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 18:31:58,Reiby,21,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari
+12/12/2023 18:32:13,Rindang,22,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 18:32:59,Syifa,21,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari
+12/12/2023 18:34:17,Devi,18,Perempuan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Beberapa Hari,Tidak Pernah,Beberapa Hari
+12/12/2023 18:35:41,Fit,23,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah
+12/12/2023 18:37:00,ale,20,Perempuan,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari
+12/12/2023 18:44:59,Fathiya,22,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+12/12/2023 18:45:11,ica,20,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 18:47:28,Lolita,22,Perempuan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Tidak Pernah,Tidak Pernah,Beberapa Hari
+12/12/2023 18:47:34,Sekar Dwiyanti,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+12/12/2023 18:49:31,Ika,22,Perempuan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari
+12/12/2023 18:49:45,A,21,Perempuan,Hampir Setiap Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+12/12/2023 18:50:02,Nabilah,20,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 18:55:46,Laela,21,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Tidak Pernah,Beberapa Hari,Hampir Setiap Hari
+12/12/2023 18:57:42,Annisa,21,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+12/12/2023 18:58:58,Mochamad Zakki,20,Laki-Laki,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 19:00:33,Rani,21,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari
+12/12/2023 19:01:04,Aulia Dwi Anggraeni ,18,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari
+12/12/2023 19:01:13,Rosmalani ,22,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari
+12/12/2023 19:02:16,Yamanda Muhammad Akbar Weasa,19,Laki-Laki,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari
+12/12/2023 19:04:21,Syifa,21,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+12/12/2023 19:17:27,Putri Rahmasari,21,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+12/12/2023 19:18:27,mala,19,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Tidak Pernah,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 19:19:46,MAP,22,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari
+12/12/2023 19:20:18,Hatma,19,Perempuan,Beberapa Hari,Tidak Pernah,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Beberapa Hari
+12/12/2023 19:21:20,Syarla amara dinanti,20,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari
+12/12/2023 19:24:40,Ik,25,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+12/12/2023 19:31:52,biya,21,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Beberapa Hari,Hampir Setiap Hari
+12/12/2023 19:32:20,ray,20,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 19:35:17,Mira ,20,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 19:36:24,Haura,23,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah
+12/12/2023 19:38:00,shafa,18,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari,Tidak Pernah,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 19:38:25,Eva ,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+12/12/2023 19:39:09,Chia,23,Perempuan,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari
+12/12/2023 19:44:42,Muhammad Raafi,24,Laki-Laki,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari
+12/12/2023 19:47:16,Gita,19,Perempuan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah,Hampir Setiap Hari
+12/12/2023 19:59:11,yisa,20,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari
+12/12/2023 20:00:02,Thifal,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari
+12/12/2023 20:00:12,Alya,23,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+12/12/2023 20:15:58,Anisa Choirina ,21,Perempuan,Hampir Setiap Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari
+12/12/2023 20:18:09,Azkia,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari
+12/12/2023 20:19:55,Aryani rachim,22,Perempuan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari
+12/12/2023 20:21:27,fira,21,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Beberapa Hari,Hampir Setiap Hari
+12/12/2023 20:24:04,Tiara Nada,20,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari
+12/12/2023 20:28:33,ra,22,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+12/12/2023 20:34:10,Tri Ayu N,23,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah,Beberapa Hari
+12/12/2023 20:35:10,Rif,20,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+12/12/2023 20:35:48,yuli ermanda,19,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 20:52:34,Bella,20,Perempuan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Tidak Pernah,Beberapa Hari
+12/12/2023 21:00:15,syahra,18,Perempuan,Beberapa Hari,Tidak Pernah,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 21:00:55,Silvi,21,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+12/12/2023 21:02:08,Ney,22,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Beberapa Hari,Hampir Setiap Hari
+12/12/2023 21:03:46,yunita,21,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari
+12/12/2023 21:04:35,Pb,22,Perempuan,Tidak Pernah,Tidak Pernah,Beberapa Hari,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari
+12/12/2023 21:06:23,azh,20,Perempuan,Beberapa Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 21:07:59,April,20,Perempuan,Tidak Pernah,Beberapa Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari
+12/12/2023 21:09:25,Dwi Putri,23,Perempuan,Hampir Setiap Hari,Beberapa Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+12/12/2023 21:10:54,Siti Khf,22,Perempuan,Beberapa Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 21:12:06,Aziza ,18,Perempuan,Beberapa Hari,Tidak Pernah,Hampir Setiap Hari,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari
+12/12/2023 21:13:34,Mutia,21,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari,Beberapa Hari
+12/12/2023 21:15:08,anda,21,Perempuan,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari
+12/12/2023 21:16:30,nur,23,Perempuan,Beberapa Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari
+12/12/2023 21:17:28,kikik,21,Perempuan,Tidak Pernah,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah
+12/12/2023 21:26:19,Nurul,24,Perempuan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 21:33:00,yas,23,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 21:34:06,A,23,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari
+12/12/2023 21:36:19,Alif Luthfie ,18,Laki-Laki,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 21:39:19,yuni,21,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 21:39:38,Keisha ,19,Perempuan,Beberapa Hari,Tidak Pernah,Hampir Setiap Hari,Beberapa Hari,Tidak Pernah,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 21:40:50,agung dwi,24,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Tidak Pernah,Tidak Pernah
+12/12/2023 21:46:47,M,23,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari
+12/12/2023 21:47:16,Mifta ,22,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari
+12/12/2023 21:47:45,Nelfi,19,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Tidak Pernah,Beberapa Hari
+12/12/2023 21:52:24,Dania,18,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 21:53:13,Purnama,19,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah
+12/12/2023 21:58:08,Eping,19,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 22:03:48,rel,22,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 22:06:00,Keisya,19,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari
+12/12/2023 22:12:27,Irna,19,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari
+12/12/2023 22:15:36,buba,20,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari
+12/12/2023 22:16:42,Dwi Setiani ,18,Perempuan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari
+12/12/2023 22:19:38,Gina ,19,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+12/12/2023 22:23:56,Hastin,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 22:24:04,ALYA,22,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari
+12/12/2023 22:27:35,Wa Lifu ,20,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari
+12/12/2023 22:34:44,lea,19,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 22:45:01,Fitria,23,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 23:06:10,Dimas Arief,21,Laki-Laki,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Tidak Pernah,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 23:07:35,Sudrajat,21,Laki-Laki,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 23:13:34,Wa Tima ,22,Perempuan,Hampir Setiap Hari,Tidak Pernah,Hampir Setiap Hari,Hampir Setiap Hari,Tidak Pernah,Hampir Setiap Hari,Beberapa Hari
+12/12/2023 23:14:21,orz,23,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+12/12/2023 23:14:38,Acha Ms,24,Perempuan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 23:20:16,Linda zebrianti,19,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah
+12/12/2023 23:23:41,kIara,20,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+12/12/2023 23:28:51,Gita Rania,23,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah,Hampir Setiap Hari
+12/12/2023 23:33:20,Faza,18,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+12/12/2023 23:37:44,findah,20,Perempuan,Hampir Setiap Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+12/12/2023 23:42:06,Risnawati,23,Perempuan,Hampir Setiap Hari,Beberapa Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari
+12/12/2023 23:44:16,Nazhira ,21,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+12/12/2023 23:56:01,Selfia,18,Perempuan,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+13/12/2023 0:13:54,Putri Angraini Aziz,19,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari
+13/12/2023 0:20:44,Saki,20,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari
+13/12/2023 0:26:32,Lana,21,Perempuan,Hampir Setiap Hari,Beberapa Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari
+13/12/2023 0:29:53,Agnes M,22,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari
+13/12/2023 0:44:33,Tannia Azizah,21,Perempuan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+13/12/2023 0:45:41,Dita ,19,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Beberapa Hari,Beberapa Hari,Tidak Pernah
+13/12/2023 0:58:01,Alizha Nadar,21,Perempuan,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah
+13/12/2023 1:00:34,Orelia,18,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari
+13/12/2023 1:06:17,yosa,21,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari
+13/12/2023 1:08:51,Elawati,19,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Tidak Pernah,Hampir Setiap Hari
+13/12/2023 1:15:56,Hanung ,21,Laki-Laki,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Tidak Pernah,Beberapa Hari
+13/12/2023 1:37:41,Chintya ,20,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+13/12/2023 1:39:15,Amalia E,22,Perempuan,Beberapa Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+13/12/2023 2:05:08,Feli,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+13/12/2023 2:38:41,Dellis Shika Prameswari,23,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Tidak Pernah,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+13/12/2023 3:43:20,Muhammad Syahrul,18,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan
+13/12/2023 4:16:14,Rakha,20,Laki-Laki,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari
+13/12/2023 4:16:26,Dyah Arum Kinanti ,19,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari
+13/12/2023 4:20:14,Tika,22,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari
+13/12/2023 4:28:45,gin,23,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari
+13/12/2023 4:36:41,Zelvia Saputri ,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+13/12/2023 4:37:48,Nina,22,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari
+13/12/2023 4:42:04,Dava Chairunnisa,19,Perempuan,Tidak Pernah,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari,Beberapa Hari
+13/12/2023 4:50:09,Dantita Ratu Permata,20,Perempuan,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan
+13/12/2023 5:01:22,Irfan Nur Hidayat,19,Laki-Laki,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari
+13/12/2023 5:02:55,Anggi,21,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari
+13/12/2023 5:13:12,Yuvenia Eka ,18,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Tidak Pernah,Beberapa Hari,Tidak Pernah,Beberapa Hari
+13/12/2023 5:17:37,OS,21,Perempuan,Beberapa Hari,Beberapa Hari,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari
+13/12/2023 5:31:20,Ajeng Putri Praptiwi,19,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari
+13/12/2023 5:41:31,Wa ode sitti nurhalija ,18,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari,Beberapa Hari
+13/12/2023 5:43:45,Olivia zahra ,23,Perempuan,Beberapa Hari,Tidak Pernah,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+13/12/2023 5:50:18,DEVY NATALIA NURTIANI,18,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+13/12/2023 5:54:21,Lucke yuansyah,25,Perempuan,Beberapa Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah
+13/12/2023 5:54:59,Nur,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari
+13/12/2023 6:05:46,Anum,22,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari
+13/12/2023 6:08:21,Riska,21,Perempuan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari
+13/12/2023 6:36:52,han,20,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari,Hampir Setiap Hari
+13/12/2023 6:37:35,Sitti Ayzah Mutiara ,18,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah,Beberapa Hari
+13/12/2023 6:40:43,Naila,21,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+13/12/2023 6:42:25,Elvira,20,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari
+13/12/2023 6:51:30,Jessica,20,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+13/12/2023 6:52:32,Jana,23,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Hampir Setiap Hari
+13/12/2023 7:09:37,Nera,18,Perempuan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari
+13/12/2023 7:32:14,Ike ayu anjani,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+13/12/2023 7:59:03,Ais,19,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+13/12/2023 8:03:34,Alfiana ,20,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari
+13/12/2023 8:28:01,Arnetta,21,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari
+13/12/2023 9:42:04,Asti,23,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah,Beberapa Hari
+13/12/2023 9:42:08,Liana,22,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari,Tidak Pernah,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan
+13/12/2023 10:06:15,Aninda,22,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Hampir Setiap Hari
+13/12/2023 11:24:13,Alin,20,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+13/12/2023 11:46:52,Nabila Putri ,18,Perempuan,Beberapa Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan
+13/12/2023 13:51:57,Alfina ,24,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari
+13/12/2023 15:20:06,mita,20,Perempuan,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+13/12/2023 16:56:08,Luna,22,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari,Tidak Pernah,Beberapa Hari,Tidak Pernah
+13/12/2023 16:56:25,icha,21,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari,Beberapa Hari
+13/12/2023 17:50:50,Nzrl,19,Laki-Laki,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan
+13/12/2023 17:59:20,Ferdi Ashari Bahar,18,Laki-Laki,Tidak Pernah,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari,Beberapa Hari
+13/12/2023 17:59:35,Ucok Marulli Matondang ,18,Laki-Laki,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari
+13/12/2023 18:00:25,Chandra Prasetya,18,Laki-Laki,Tidak Pernah,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+13/12/2023 18:11:21,Rayhan Permana Putra,19,Laki-Laki,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+13/12/2023 18:32:39,Siti Samriah,19,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+13/12/2023 19:33:09,La Ode Rifasal ,18,Laki-Laki,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan
+13/12/2023 19:36:58,Rahmah Yuniati,18,Perempuan,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari
+13/12/2023 20:16:10,Muh. Arif Rahman Gani,18,Laki-Laki,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Beberapa Hari,Tidak Pernah
+13/12/2023 21:51:53,Nela ,20,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari
+13/12/2023 22:44:52,ucy,21,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+13/12/2023 22:45:46,Harnelia,19,Perempuan,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+13/12/2023 22:49:38,Annisa Auliya Ramadhani,19,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Tidak Pernah,Beberapa Hari
+13/12/2023 22:59:33,Yun Muntarti,19,Perempuan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari
+13/12/2023 23:01:46,Rain,21,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+13/12/2023 23:06:11,dila,25,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+13/12/2023 23:16:38,Saskia ,20,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari
+13/12/2023 23:20:03,Sel,22,Perempuan,Beberapa Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Tidak Pernah,Beberapa Hari,Beberapa Hari
+13/12/2023 23:31:48,amp,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+13/12/2023 23:33:22,Aca,23,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah,Beberapa Hari
+13/12/2023 23:42:00,Alifia,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari
+13/12/2023 23:44:55,Alex,19,Laki-Laki,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+13/12/2023 23:49:49,Rara,23,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+13/12/2023 23:55:22,Fiki,25,Laki-Laki,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan
+14/12/2023 0:11:56,Ifa,24,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari
+14/12/2023 0:33:16,Khurata A'yuni,22,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari
+14/12/2023 1:03:11,Amanthy,21,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+14/12/2023 1:11:16,Nurul Afifah,22,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah
+14/12/2023 1:40:22,narendra,18,Perempuan,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari,Tidak Pernah,Beberapa Hari
+14/12/2023 1:41:48,LAODE IKHWANUL UZLAH,19,Laki-Laki,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah
+14/12/2023 1:50:08,wahda,21,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+14/12/2023 2:20:48,Deviani,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari,Beberapa Hari,Tidak Pernah,Hampir Setiap Hari
+14/12/2023 2:39:10,N,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+14/12/2023 3:19:50,meydita,23,Perempuan,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+14/12/2023 3:43:48,Kyshana Alifhia Wardhana,23,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+14/12/2023 3:54:50,Oktri,22,Perempuan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+14/12/2023 3:56:59,Athara,21,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari,Tidak Pernah
+14/12/2023 4:26:10,Novi,21,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Tidak Pernah,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+14/12/2023 5:39:38,Hye,19,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+14/12/2023 5:46:46,Rintan,21,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+14/12/2023 6:04:40,FAY,21,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+14/12/2023 6:21:49,Naur,22,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari
+14/12/2023 6:25:30,Dehasyifa ,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari
+14/12/2023 6:29:18,Salsa,23,Perempuan,Hampir Setiap Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Beberapa Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan
+14/12/2023 6:29:45,Aulia,22,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+14/12/2023 6:40:23,Arini ,21,Perempuan,Hampir Setiap Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+14/12/2023 6:41:57,Farah Fazira,25,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+14/12/2023 6:43:50,Dhea,21,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari
+14/12/2023 7:06:30,S,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Hampir Setiap Hari,Beberapa Hari,Tidak Pernah,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+14/12/2023 7:20:03,Putri Nurgis Alita,23,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari
+14/12/2023 7:24:16,wulan,21,Perempuan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+14/12/2023 7:42:02,Maria,20,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+14/12/2023 7:46:18,ua,20,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari
+14/12/2023 8:12:10,aliyah ,21,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari
+14/12/2023 8:21:44,Noshye,20,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Tidak Pernah,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan
+14/12/2023 14:57:52,maurin,21,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari,Beberapa Hari
+14/12/2023 17:21:13,fe,22,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan
+14/12/2023 17:23:02,Adyt,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah,Tidak Pernah
+14/12/2023 17:29:06,vanny,21,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari
+14/12/2023 18:17:51,Gina,20,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+14/12/2023 18:22:59,Maria,25,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+14/12/2023 20:11:34,Nara,19,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+14/12/2023 20:39:57,Noor,20,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Tidak Pernah,Hampir Setiap Hari
+14/12/2023 21:19:25,Mily,22,Perempuan,Hampir Setiap Hari,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+14/12/2023 23:06:11,fina,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari
+14/12/2023 23:18:42,Eka,22,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah
+14/12/2023 23:47:47,Muhammad Raafi,24,Laki-Laki,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari
+15/12/2023 0:47:59,Jihan,21,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+15/12/2023 1:08:58,Rai,19,Perempuan,Beberapa Hari,Tidak Pernah,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari,Beberapa Hari
+15/12/2023 2:23:21,Mutia,18,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari
+15/12/2023 3:01:07,Nisa,24,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari
+15/12/2023 3:26:52,Firda,22,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+15/12/2023 3:54:06,Jeannica,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+15/12/2023 5:19:27,Lemon,23,Laki-Laki,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+15/12/2023 5:44:23,Dyah Arum Kinanti ,20,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+15/12/2023 5:59:21,Embang Tri Rahayu ,21,Perempuan,Beberapa Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari
+15/12/2023 9:00:48,Diva,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari
+15/12/2023 19:03:16,Cornel,20,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+15/12/2023 19:26:48,Rahma Sani,21,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan
+15/12/2023 19:37:47,Momon,18,Perempuan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan
+15/12/2023 21:52:19,Dhea Kinanti,24,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Beberapa Hari,Hampir Setiap Hari
+15/12/2023 22:34:03,Rhea,20,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari
+16/12/2023 0:35:01,Agustina,22,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+16/12/2023 4:12:30,Anin,22,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Hampir Setiap Hari
+16/12/2023 4:34:34,Widodo Febri Utomo,21,Laki-Laki,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari
+16/12/2023 4:56:21,Nur Fauziyah Undu ,19,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari
+16/12/2023 18:04:44,Nada,24,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari
+16/12/2023 18:29:30,Shaaa,18,Perempuan,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah,Hampir Setiap Hari
+16/12/2023 19:06:42,umi,22,Perempuan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari
+16/12/2023 19:10:39,Ari,24,Laki-Laki,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+16/12/2023 19:49:10,Mahdiah,19,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari
+16/12/2023 19:57:35,Raisa Salsa,20,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari
+16/12/2023 20:15:37,Sylvia,22,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari
+16/12/2023 20:52:58,nayla,21,Perempuan,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari
+16/12/2023 20:59:27,Diana,22,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Tidak Pernah,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+16/12/2023 22:40:22,Sasya,21,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari
+16/12/2023 23:49:55,Miranda,21,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari
+17/12/2023 0:40:28,Nahara Kana ,18,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+17/12/2023 0:56:57,yusuf,20,Laki-Laki,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+17/12/2023 3:19:12,Nisya,20,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari
+17/12/2023 6:44:48,Anisa Dinda Kirana ,25,Perempuan,Beberapa Hari,Tidak Pernah,Hampir Setiap Hari,Beberapa Hari,Tidak Pernah,Beberapa Hari,Hampir Setiap Hari
+17/12/2023 8:10:05,Ghina ,20,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari
+17/12/2023 8:41:52,regi,21,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+17/12/2023 15:49:40,Intan A.,20,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Hampir Setiap Hari
+17/12/2023 20:18:04,Rahma,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+18/12/2023 3:37:11,Nurul Ariffah,19,Perempuan,Beberapa Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari
+18/12/2023 5:39:19,Malai Rasya,21,Perempuan,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari
+18/12/2023 5:50:50,Andi Tiara,23,Perempuan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+18/12/2023 5:55:29,Abdul Hafidz,18,Laki-Laki,Beberapa Hari,Tidak Pernah,Beberapa Hari,Tidak Pernah,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari
+18/12/2023 7:14:00,Kezia,19,Perempuan,Beberapa Hari,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari
+18/12/2023 16:09:54,A,20,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Beberapa Hari,Tidak Pernah,Beberapa Hari,Beberapa Hari
+19/12/2023 5:21:41,hana,19,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+19/12/2023 7:07:11,Kezia nababan,23,Perempuan,Beberapa Hari,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Beberapa Hari
+19/12/2023 7:23:04,Mahes,24,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Tidak Pernah,Tidak Pernah,Beberapa Hari,Beberapa Hari
+19/12/2023 19:39:43,Kevin aryasanjana,19,Laki-Laki,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari
+19/12/2023 23:31:40,Lutfiana Alfa ,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Tidak Pernah,Hampir Setiap Hari
+20/12/2023 20:23:45,Najwan Fikrah,18,Laki-Laki,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Hampir Setiap Hari,Tidak Pernah,Hampir Setiap Hari,Hampir Setiap Hari
+21/12/2023 3:54:40,Resy,23,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari
+21/12/2023 6:57:51,Hastri,19,Perempuan,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah,Tidak Pernah
+23/12/2023 4:14:13,Joanne ,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+23/12/2023 21:39:36,Triani,20,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari
+25/12/2023 2:54:42,Sukma Aulia ,22,Perempuan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Beberapa Hari,Hampir Setiap Hari,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan
+25/12/2023 19:01:15,pikola,23,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan
+25/12/2023 19:49:51,Syifa Nurwahidah ,21,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Hampir Setiap Hari,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+26/12/2023 16:39:00,Bagas Ari ,20,Laki-Laki,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan
+27/12/2023 3:59:13,Anes,22,Laki-Laki,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari
+29/12/2023 22:17:54,Hardin Lapagala,19,Laki-Laki,Beberapa Hari,Tidak Pernah,Tidak Pernah,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari
+29/12/2023 22:18:48,Vira Sagita,18,Perempuan,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Beberapa Hari,Tidak Pernah,Tidak Pernah,Lebih dari Separuh Waktu yang ditentukan,Lebih dari Separuh Waktu yang ditentukan
+29/12/2023 22:19:56,Aisyah Rahmawati,21,Perempuan,Beberapa Hari,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Lebih dari Separuh Waktu yang ditentukan,Beberapa Hari,Hampir Setiap Hari
